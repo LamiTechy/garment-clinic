@@ -95,14 +95,14 @@ export default function HomePage() {
                 {stats.map((stat, index) => (
                   <div
                     key={stat.label}
-                    className="glass rounded-2xl p-6 text-center animate-fade-in"
+                    className="bg-white rounded-2xl p-6 text-center shadow-xl animate-fade-in"
                     style={{ animationDelay: `${0.2 + index * 0.1}s` }}
                   >
                     <div className="inline-flex items-center justify-center w-12 h-12 rounded-xl bg-gradient-to-br from-accent to-orange-400 text-white mb-3">
                       <stat.icon className="w-6 h-6" />
                     </div>
-                    <div className="text-3xl font-bold text-white">{stat.value}</div>
-                    <div className="text-sm text-white/70 mt-1">{stat.label}</div>
+                    <div className="text-3xl font-bold text-foreground">{stat.value}</div>
+                    <div className="text-sm text-muted-foreground mt-1">{stat.label}</div>
                   </div>
                 ))}
               </div>
