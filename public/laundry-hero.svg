@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 800 600" className="w-full h-full">
+  <rect width="800" height="600" fill="#e0f2fe" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" fill="#3843d9" font-weight="bold">Ace Wash N Dry</text>
+  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#6b7280">Clean Clothes, Happy Home</text>
+  <g transform="translate(120,220)">
+    <rect x="0" y="0" width="80" height="100" fill="#2563eb" rx="8" />
+    <circle cx="40" cy="55" r="28" fill="#1e40af" />
+    <path d="M15 55c0-14 11-25 25-25s25 11 25 25" fill="none" stroke="#ffffff" stroke-width="4" />
+  </g>
+  <g transform="translate(280,300)">
+    <rect x="0" y="0" width="100" fill="#fff" height="10" rx="5" />
+    <rect x="0" y="25" width="100" fill="#fff" height="10" rx="5" />
+    <rect x="0" y="50" width="70" fill="#fff" height="10" rx="5" />
+    <rect x="0" y="80" width="100" fill="#9ca3af" height="8" rx="4" />
+    <rect x="10" y="100" width="80" fill="#6b7280" rx="4" />
+  </g>
+</svg>
