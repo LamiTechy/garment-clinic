@@ -61,7 +61,7 @@ export default function AboutPage() {
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 rounded-3xl blur-3xl" />
               <div className="relative rounded-3xl overflow-hidden shadow-2xl">
                 <Image
-                  src="https://images.unsplash.com/photo-1521656693884-5bdcf3fc3a27?w=800&q=80&auto=format"
+                  src="https://plus.unsplash.com/premium_photo-1664372899366-d5fb20b332d1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Zm9sZGVkJTIwbGF1bmRyeXxlbnwwfHwwfHx8MA%3D%3D"
                   alt="Professional laundry service"
                   width={600}
                   height={400}
